@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BigBang</string>
+    <string name="accessibility_bigbang_description">开启后可以使用BigBang功能</string>
 </resources>
